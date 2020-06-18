@@ -2,7 +2,7 @@
 
 ## <u>Books</u>
 
-1. #### [Database Internals: A deep-dive into how distributed data systems work](https://pdfget.com/pdf-epub-database-internals-a-deep-dive-into-how-distributed-data-systems-work-download/)
+1. #### [Database Internals: A deep-dive into how distributed data systems work](https://pdfget.com/pdf-epub-database-internals-a-deep-dive-into-how-distributed-data-systems-work-download/) TODO
 
 
 ## <u>Talks</u>
@@ -11,3 +11,5 @@
   
   
 ## <u>Research Papers</u>
+
+1. #### [CRYPTFLOW: Secure TensorFlow Inference](https://arxiv.org/pdf/1909.07814.pdf) TODO
