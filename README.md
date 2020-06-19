@@ -14,3 +14,7 @@
 ## <u>Research Papers</u>
 
 1. #### [CRYPTFLOW: Secure TensorFlow Inference](https://arxiv.org/pdf/1909.07814.pdf) TODO
+
+## <u>Technical Reading</u>
+
+1. #### [Paxos Made Simple](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/paxos-simple-Copy.pdf) TODO
