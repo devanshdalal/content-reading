@@ -17,6 +17,6 @@
 
 ## <u>Technical Reading</u>
 
-https://arxiv.org/pdf/1910.07782.pdf
+
 1. #### [The Distributed Bloom Filter](https://arxiv.org/pdf/1910.07782.pdf) Done
 2. #### [Paxos Made Simple](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/paxos-simple-Copy.pdf) TODO
