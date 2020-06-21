@@ -9,6 +9,7 @@
 ## <u>Talks</u>
 
 1. #### [CppCon 2019: Andrei Alexandrescu “Speed Is Found In The Minds of People"](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
+2. #### [CppCon 2017: Nicolai Josuttis “The Nightmare of Move Semantics for Trivial Classes”](https://www.youtube.com/watch?v=PNRju6_yn3o)
   
   
 ## <u>Research Papers</u>
