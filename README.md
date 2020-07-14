@@ -4,13 +4,14 @@
 
 1. #### [Database Internals: A deep-dive into how distributed data systems work](https://pdfget.com/pdf-epub-database-internals-a-deep-dive-into-how-distributed-data-systems-work-download/) TODO
 2. #### [Designing Data Intensive Applications.pdf](http://oss.lanjingdejia.com/file/2018/9/9ad24578de98433a8005fc6484f57985-Designing.DataIntensive.Applications.pdf) TODO
-3. #### [Vitess: MySQL Sharding](https://www.youtube.com/watch?v=q65TleTn2vg) Done
+
 
 
 ## <u>Talks</u>
 
 1. #### [CppCon 2019: Andrei Alexandrescu “Speed Is Found In The Minds of People"](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
 2. #### [CppCon 2017: Nicolai Josuttis “The Nightmare of Move Semantics for Trivial Classes”](https://www.youtube.com/watch?v=PNRju6_yn3o)
+3. #### [Vitess: MySQL Sharding](https://www.youtube.com/watch?v=q65TleTn2vg) Done
   
   
 ## <u>Research Papers</u>
