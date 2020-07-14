@@ -38,3 +38,4 @@ Get Real: How Benchmarks Fail to Represent the Real World	Benchmark	DBTest Sigmo
 
 1. #### [The Distributed Bloom Filter](https://arxiv.org/pdf/1910.07782.pdf) Done
 2. #### [Paxos Made Simple](https://www.microsoft.com/en-us/research/uploads/prod/2016/12/paxos-simple-Copy.pdf) TODO
+3. #### [Vitess](https://www.infoq.com/presentations/vitess/) Done
