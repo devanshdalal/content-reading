@@ -16,6 +16,23 @@
 
 1. #### [CRYPTFLOW: Secure TensorFlow Inference](https://arxiv.org/pdf/1909.07814.pdf) TODO
 
+2. #### Falcon Paper reading
+```
+"Access Path Selection in Main-Memory Optimized
+Data Systems: Should I Scan or Should I Probe?"	QueryExecution		Gourav	https://www.eecs.harvard.edu/~kester/files/accesspathselection.pdf
+"Efficient Top-K Query Processing on Massively Parallel
+Hardware"	QueryExecution	SIGMOD 18		https://anilshanbhag.in/static/papers/gputopk_sigmod18.pdf
+How to Architect a Query Compiler, Revisited	Compiler	SIGMOD 18	Ashok	https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf
+BIPie: Fast Selection and Aggregation on Encoded Data usingOperator Specialization		SIGMOD 18		
+Efficiently Compiling Efficient Query Plans for Modern Hardware	Compiler	VLDB11		http://www.vldb.org/pvldb/vol4/p539-neumann.pdf
+Main-Memory Scan Sharing For Multi-Core CPUs				https://15721.courses.cs.cmu.edu/spring2016/papers/p610-qiao.pdf
+				
+Monet - Hyper pipelining query execution				http://cidrdb.org/cidr2005/papers/P19.pdf
+CHESS - Systematic Concurrency Testing	Testing	OSDI 08	Anand	https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/osdi2008-CHESS.pdf
+Touchstone: Generating Enormous Query-Aware Test Databases	Data Generation	USENIX 28		https://www.usenix.org/system/files/conference/atc18/atc18-li-yuming.pdf
+Get Real: How Benchmarks Fail to Represent the Real World	Benchmark	DBTest Sigmod 18		https://research.tableau.com/sites/default/files/get_real.pdf
+```
+
 ## <u>Technical Reading</u>
 
 
